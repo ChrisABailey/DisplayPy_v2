@@ -1,0 +1,1 @@
+C:\Users\CBailey.IDCLCD\AppData\Roaming\Python\Python39\Scripts\pyinstaller.exe DisplayPy.py -w --add-data *.png;. --add-data readme.txt;.

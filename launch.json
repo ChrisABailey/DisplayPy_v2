@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Dynamic Python: File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["--lad"],
+            "justMyCode": true
+        }
+    ]
+}

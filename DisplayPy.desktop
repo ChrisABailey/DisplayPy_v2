@@ -1,0 +1,7 @@
+[Desktop Entry]
+Comment=Run Display Pattern Generator
+Terminal=false
+Name=DisplayPy
+Exec=python3 /home/pi/DisplayPy_v2/DisplayPy.py 
+Type=Application
+Icon=/home/pi/DisplayPy_v2/icon.png
